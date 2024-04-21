@@ -1,11 +1,3 @@
-import levelUp from '../character';
-import damage from '../character';
-import Bowman from '../bowerman';
-import Swordsman from '../swordsman';
-import Magician from '../magician';
-import Undead from '../undead';
-import Zombie from '../zombie';
-import Daemon from '../daemon';
 import Character from '../character';
 
 test('LevelUp', () => {
